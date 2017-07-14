@@ -3,7 +3,7 @@ Daniel Morsing
 - Systems programmer
 - Based out of London, UK
 - Website: https://morsmachine.dk
-- Email: daniel.morsing@gmail.com
+- Email: daniel@lasagna.horse
 - OpenHub profile: https://www.openhub.net/accounts/DMorsing
 
 Education
