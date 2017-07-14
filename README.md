@@ -14,7 +14,11 @@ Education
 
 Work Experience
 -----------
+- 2016 April - 2017 June: Distributed Systems developer at Datadog.
+
+	Datadog is a systems monitoring platform that lets to see inside your system. It provides metrics, alerts, host maps and distributed tracing. My role at Datadog was mainly optimizing their data ingress systems, making sure that various time-series data could be efficiently stored.
 - 2015 August - 2015 November: Systems developer at InfluxData.
+
 	InfluxData develops and operates a Time-series database for use in systems monitoring and sensor collection. My role was optimizing the aggregation algorithms, which operated on a Map-Reduce framework. Additionally, I worked on optimizing the data intake path and reducing garbage collection pauses.
 
 - 2014 January - 2015 May: Systems developer at CloudFlare Inc.
