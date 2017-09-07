@@ -54,3 +54,4 @@ Programming languages
 Other skills
 -----------
 - Fluent in English and Danish
+- Previous experience working remote
