@@ -14,6 +14,9 @@ Education
 
 Work Experience
 -----------
+- 2017 October - 2018 September: Systems engineer at Walmart Labs.
+
+	Walmart owns a global suite of eCommerce websites. My role at Walmart was as part of a team that maintained and developed their internal HTTP serving infrastructure. Walmart has an internally developed HTTP proxy that provides various platform features, like load balancing, dynamic rewrite of pages and the ability to write small scripts in Lua to run on the edge compute. My main role was developing features and optimizing that platform. Additionally, I helped maintain Walmart's internal CDN.
 - 2016 April - 2017 June: Distributed Systems developer at Datadog.
 
 	Datadog is a systems monitoring platform that lets to see inside your system. It provides metrics, alerts, host maps and distributed tracing. My role at Datadog was mainly optimizing their data ingress systems, making sure that various time-series data could be efficiently stored.
