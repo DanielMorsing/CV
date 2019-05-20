@@ -4,16 +4,13 @@ Daniel Morsing
 - Based out of London, UK
 - Website: https://morsmachine.dk
 - Email: daniel@lasagna.horse
-- OpenHub profile: https://www.openhub.net/accounts/DMorsing
-
-Education
-----------
-- 2008-2012: Aarhus School of Engineering
-
-	Bachelor of Engineering in Information and Communication Technology.
 
 Work Experience
 -----------
+- 2019 January - 2019 April: Systems engineer at Jetstack.
+
+	Jetstack is a Kubernetes consultancy that provides training and develops products to make deploying Kubernetes easier for their customers. My role at Jetstack was developing and supporting [Cert-Manager](https://github.com/jetstack/cert-manager), a Kubernetes controller that automatically handles issuing and renewing x.509 (SSL) certificates.
+
 - 2017 October - 2018 September: Systems engineer at Walmart Labs.
 
 	Walmart owns a global suite of eCommerce websites. My role at Walmart was as part of a team that maintained and developed their internal HTTP serving infrastructure. Walmart has an internally developed HTTP proxy that provides various platform features, like load balancing, dynamic rewrite of pages and the ability to write small scripts in Lua to run on the edge compute. My main role was developing features and optimizing that platform. Additionally, I helped maintain Walmart's internal CDN.
@@ -36,15 +33,21 @@ Work Experience
 
 	Terma A/S builds embedded systems for F-16 fighter planes that provides integration between the various defense mechanisms in the aircraft. My role at Terma was in general support, by developing automated test solutions for their main product and integrating the existing ERP (Enterprise Resource Planning) system with their revision control system.
 	
+Education
+----------
+- 2008-2012: Aarhus School of Engineering
+
+	Bachelor of Engineering in Information and Communication Technology.
+
 Key skills
 --------
 - Optimizing Go programs
 - Static analysis tools for Go
 - Compilers and language implementation
+- Developing distributed systems
 - Unix systems programming
-- HTTP parsing and routing
+- HTTP internals and optimization
 - DNS semantics and server implementation
-- Linux device drivers
 - Developing embedded systems
 - Database implementation
 
