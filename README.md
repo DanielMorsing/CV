@@ -7,6 +7,10 @@ Daniel Morsing
 
 Work Experience
 -----------
+- 2019 August - Present: Cloud Infrastructure Engineer at Pusher.
+
+	Pusher is a company that develops a platform for one-to-many real-time communications using websockets. My role at Pusher was developing and being on-call for our custom Kubernetes clusters, providing guidance to our developers and cost-optimizing our existing cloud infrastructure.
+
 - 2019 January - 2019 April: Systems engineer at Jetstack.
 
 	Jetstack is a Kubernetes consultancy that provides training and develops products to make deploying Kubernetes easier for their customers. My role at Jetstack was developing and supporting [Cert-Manager](https://github.com/jetstack/cert-manager), a Kubernetes controller that automatically handles issuing and renewing x.509 (SSL) certificates.
