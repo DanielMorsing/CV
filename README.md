@@ -7,7 +7,7 @@ Daniel Morsing
 
 Work Experience
 -----------
-- 2019 August - Present: Cloud Infrastructure Engineer at Pusher.
+- 2019 August - 2020 May: Cloud Infrastructure Engineer at Pusher.
 
 	Pusher is a company that develops a platform for one-to-many real-time communications using websockets. My role at Pusher was developing and being on-call for our custom Kubernetes clusters, providing guidance to our developers and cost-optimizing our existing cloud infrastructure.
 
