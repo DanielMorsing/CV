@@ -7,6 +7,9 @@ Daniel Morsing
 
 Work Experience
 -----------
+- 2020 July - Present: Freelance video producer
+	Shifted focus to the video space. While it doesn't seem tech focused on the surface, in the course of my work, I developed and administered bulk storage solutions, coded custom h.264 video solutions and developed embedded electronics to control my video production equipment.
+
 - 2019 August - 2020 May: Cloud Infrastructure Engineer at Pusher.
 
 	Pusher is a company that develops a platform for one-to-many real-time communications using websockets. My role at Pusher was developing and being on-call for our custom Kubernetes clusters, providing guidance to our developers and cost-optimizing our existing cloud infrastructure.
@@ -20,7 +23,7 @@ Work Experience
 	Walmart owns a global suite of eCommerce websites. My role at Walmart was as part of a team that maintained and developed their internal HTTP serving infrastructure. Walmart has an internally developed HTTP proxy that provides various platform features, like load balancing, dynamic rewrite of pages and the ability to write small scripts in Lua to run on the edge compute. My main role was developing features and optimizing that platform. Additionally, I helped maintain Walmart's internal CDN.
 - 2016 April - 2017 June: Distributed Systems developer at Datadog.
 
-	Datadog is a systems monitoring platform that lets to see inside your system. It provides metrics, alerts, host maps and distributed tracing. My role at Datadog was mainly optimizing their data ingress systems, making sure that various time-series data could be efficiently stored.
+	Datadog is a systems monitoring platform that lets you see inside your system. It provides metrics, alerts, host maps and distributed tracing. My role at Datadog was mainly optimizing their data ingress systems, making sure that various time-series data could be efficiently stored.
 - 2015 August - 2015 November: Systems developer at InfluxData.
 
 	InfluxData develops and operates a Time-series database for use in systems monitoring and sensor collection. My role was optimizing the aggregation algorithms, which operated on a Map-Reduce framework. Additionally, I worked on optimizing the data intake path and reducing garbage collection pauses.
