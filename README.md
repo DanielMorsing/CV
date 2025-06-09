@@ -8,6 +8,7 @@ Daniel Morsing
 Work Experience
 -----------
 - 2020 July - Present: Freelance video producer
+
 	Shifted focus to the video space. While it doesn't seem tech focused on the surface, in the course of my work, I developed and administered bulk storage solutions, coded custom h.264 video solutions and developed embedded electronics to control my video production equipment.
 
 - 2019 August - 2020 May: Cloud Infrastructure Engineer at Pusher.
